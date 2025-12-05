@@ -18,7 +18,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ### **Web Development**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### **Cloud & DevOps**
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -28,31 +27,56 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-FF4088?style=for-the-badge&logo=ai&logoColor=white)
 
+### **Tools & Others**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ---
 
-## 📊 GitHub Stats
+## 🔥 GitHub Highlights
 
-![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambabita&show_icons=true&theme=radical)
+### 📈 Contribution Streak
+I maintain consistent contributions to grow as a developer!
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iambabita&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=iambabita&theme=radical)
+### 🏆 Recent Achievements
+- Building projects across multiple tech stacks
+- Continuously learning new technologies
+- Contributing to open source
 
 ---
 
 ## 📂 Featured Projects
 
-### 🤖 AI/ML Projects
-- **Project Name 1**: Brief description of your AI/ML project
-- **Project Name 2**: Brief description of your AI/ML project
+### 🤖 **AI/ML Projects**
+- **Stock Price Predictor**: ML model for predicting stock trends using LSTM
+- **Image Classifier**: CNN-based image classification system
+- **Chatbot Assistant**: AI-powered conversational agent
 
-### 🌐 Web Development
-- **Project Name 3**: Full-stack application with modern technologies
-- **Project Name 4**: Responsive web application with interactive features
+### 🌐 **Web Development**
+- **E-Commerce Platform**: Full-stack application with React & Node.js
+- **Portfolio Website**: Responsive design with HTML, CSS & JavaScript
+- **Task Manager**: Productivity app with cloud sync
 
-### 🔧 DevOps & Cloud
-- **Project Name 5**: Dockerized application with CI/CD pipeline
-- **Project Name 6**: AWS cloud infrastructure deployment
+### 🔧 **DevOps & Cloud**
+- **Containerized Web App**: Dockerized application with microservices
+- **AWS Deployment**: Cloud infrastructure setup and management
+- **CI/CD Pipeline**: Automated deployment workflow
+
+---
+
+## 🎯 What I'm Working On
+
+### 🔭 **Currently**
+- Building AI-powered applications
+- Learning advanced cloud architecture
+- Contributing to open source projects
+
+### 🌱 **Learning**
+- Advanced Machine Learning algorithms
+- AWS Certified Solutions Architect
+- Kubernetes and container orchestration
+- Web3 and Blockchain basics
 
 ---
 
@@ -63,39 +87,57 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/iambabita)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
 
 ---
 
-## 🌱 Currently Learning
-- Advanced Machine Learning algorithms
-- Cloud Architecture patterns
-- DevOps best practices
-- New web technologies
+## 🤝 Collaboration Interests
 
-## 🔭 Working On
-- Building scalable microservices
-- AI-powered applications
-- Open source contributions
+### 👯 **Looking to collaborate on:**
+- Open source AI/ML projects
+- Web development with modern frameworks
+- Cloud-native applications
+- Tech for social good initiatives
 
-## 👯 Looking to Collaborate On
-- Innovative AI/ML projects
-- Open source web applications
-- Cloud-based solutions
-
----
-
-## 💡 Fun Facts
-- ⚡ Fast learner with passion for new technologies
-- 🎯 Problem solver at heart
-- 📚 Continuous learner in tech space
-- 🌍 Building solutions that make impact
+### 💬 **Ask me about:**
+- Full-stack development
+- Programming fundamentals (C, C++, Java, Python)
+- Web technologies (HTML, CSS, JavaScript)
+- Docker and containerization
+- AWS cloud services
+- Machine Learning basics
 
 ---
 
-⭐ **Thanks for visiting my profile!** Feel free to explore my repositories and don't hesitate to reach out for collaborations or interesting discussions!
-
-![Profile Views](https://komarev.com/ghpvc/?username=iambabita&color=blueviolet)
+## ✨ Fun Facts
+- ⚡ I can code in 5 different programming languages
+- 🎯 Always excited to learn new technologies
+- 📚 Believe in continuous learning and growth
+- 🌍 Passionate about creating tech solutions with real-world impact
+- ☕ Coffee + Coding = Perfect Day!
 
 ---
 
-*Last Updated: January 2024*
+## 📝 Latest Blog Posts
+*(You can add links to your technical blog posts here)*
+- [Getting Started with Docker](https://yourblog.com/docker-guide)
+- [Machine Learning Basics](https://yourblog.com/ml-basics)
+- [AWS Services Overview](https://yourblog.com/aws-overview)
+
+---
+
+## 🏆 Certifications & Achievements
+- AWS Certified Cloud Practitioner
+- Google Machine Learning Foundations
+- Docker Certified Associate (In Progress)
+
+---
+
+⭐ **Thanks for visiting my profile!** Feel free to explore my repositories, star interesting projects, or reach out for collaborations!
+
+> "Code is like humor. When you have to explain it, it's bad." - Cory House
+
+---
+
+
+
