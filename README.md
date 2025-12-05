@@ -32,9 +32,6 @@ Welcome to my GitHub profile! I'm passionate about building scalable application
 
 ## 📊 GitHub Stats
 
-![Babita's GitHub Stats](https://github-readme-stats.vercel.app/api?username=iambabita&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iambabita&layout=compact&theme=radical)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=iambabita&theme=radical)
 
